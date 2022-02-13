@@ -1,9 +1,6 @@
 ### Hi there 👋
 I am İrem Demir, junior Computer Engineering & Mathematics student from Istanbul Turkey! 
-I am working as a DWH Analyst Intern over 5 months. 
-
-🌱 I’m currently learning more about Data Science, ML, and Quantum Computing
-
+ 
 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/iremddemir/)
 
 <!--
