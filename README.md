@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am İrem Demir, junior Computer Engineering & Mathematics student from Istanbul Turkey! 
+I am İrem Demir, a senior Computer Engineering & Mathematics student from Istanbul Turkey! 
  
 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/iremddemir/)
 
